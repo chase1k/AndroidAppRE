@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Mediacode.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- jar
+- assets/front_bg.9.png
+- assets/kx
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4-dirty
+versionInfo:
+  versionCode: '1'
+  versionName: 1.0.0
